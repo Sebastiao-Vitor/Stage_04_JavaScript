@@ -1,6 +1,7 @@
 
 
 # Stage_04_JavaScript
+# 2 desafios concluídos com sucesso e muito esforço
 
 > Trilha Explorer
 ## 🧰🛠️ Muita Lógica e algoritmos
@@ -25,7 +26,7 @@ sebastiaovitor18@gmail.com
 =======
 <h1>Um stage intenso porém cheio de coisa novas e ideias divertidas, obg prof Mayk por todo esse conhecimento compartilhado.</h1>
 
-Muito conhecimantos abordados nesse Stage, conhecimentos que numca pensei que iria aprender.
+Muito conhecimantos abordados nesse Stage, conhecimentos que nunca pensei que iria aprender.
 Hoje tenho um olhar totalmente diferente do que é o JavaScript, 
 não é como todos pensam um bicho de sete cabeças e sim algo complexo 
 porem com as ferramentas certas e os conhecimentos em mãos você se diverte com a linguagem.
