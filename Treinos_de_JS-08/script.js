@@ -12,28 +12,28 @@
 
 const patients = [
     {
-        name: "Vitor",
-        age: 22,
-        weight: 100,
-        height: 178
+        name: "Amanda",
+        age: 21,
+        weight: 48,
+        height: 155
     },
     {
         name: "Sebastião",
+        age: 22,
+        weight: 103,
+        height: 179
+    },
+    {
+        name: "Eduardo",
+        age: 22,
+        weight: 105,
+        height: 183
+    },
+    {
+        name: "Bianca",
         age: 21,
-        weight: 95,
-        height: 150
-    },
-    {
-        name: "Santos",
-        age: 32,
-        weight: 150,
-        height: 220
-    },
-    {
-        name: "Abener",
-        age: 16,
-        weight: 65,
-        height: 156
+        weight: 54,
+        height: 159
     },
 ]
 
